@@ -1,0 +1,43 @@
+.ten{    
+    font-family: sans-serif;
+    text-align: center;
+    margin: 10px auto;
+    color: #888888;
+    
+    margin-top: 20px;
+    
+}
+
+.login{
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgb(57, 128, 67);
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #44b12f;
+    margin: 200px auto;
+}
+.h2{
+    color: #CCFF99
+    font-family: sans-serif;
+
+}
+input{
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+
+}
+button{
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #00CC00;
+    color: white;
+}
