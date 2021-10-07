@@ -1,2 +1,2 @@
 # Shin6886.github.io
-open html2
+open index.html
