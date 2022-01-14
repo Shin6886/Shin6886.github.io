@@ -1,3 +1,1 @@
-# Codeforces' Gyms' Solutions
-
-Codeforces Handle: [wewark](http://codeforces.com/profile/wewark)
+open index.html
