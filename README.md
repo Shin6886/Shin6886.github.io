@@ -1,1 +1,1 @@
-open html/df.html
+open df.html
